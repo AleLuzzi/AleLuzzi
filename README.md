@@ -7,3 +7,5 @@ Quello che trovate qui, è qualcosa di utile per me e la mia attività.
 
 Perchè **Python**?
 Perchè è semplice!!! ma non vuol dire che non si possano fare cose interessanti.
+Perchè uso **Tkinter**?
+Perchè è semplice!!! e quello che mi interessa, è che ciò che scrivo sia utile e non solo bello
